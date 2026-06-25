@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
-import SearchBar from "./components/SearchBar";
-import DepartmentFilter from "./components/DepartmentFilter";
-import EmployeeCard from "./components/EmployeeCard";
+import SearchBar from "./Components/SearchBar";
+import DepartmentFilter from "./Components/DepartmentFilter";
+import EmployeeCard from "./Components/EmployeeCard";
 import "./App.css";
 
 function App() {
